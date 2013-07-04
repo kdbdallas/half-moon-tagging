@@ -6,7 +6,7 @@ Here be dragons. You use this at your own risk.
 
 ## Install
 
-    pip install --user <githuburlhere>
+    pip install --user https://github.com/schwa/half-moon-tagging.git
     
 ## Usage
 
