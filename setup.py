@@ -3,7 +3,6 @@ from setuptools import setup
 setup(
     name='half-moon-tagging',
     version='1.0a1',
-    packages=[''],
     url='http://schwa.io',
     license='BSD 2-clause',
     author='Jonathan Wight',
