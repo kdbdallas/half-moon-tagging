@@ -11,7 +11,7 @@ Here be dragons. You use this at your own risk.
 ## Usage
 
     $ tag -h
-    tag - manipulate OS X file system flags
+    tag - Mavericks command line tool for tagging files
 
     Usage:
       tag <path>
